@@ -1,0 +1,85 @@
+
+.yamilVAL
+{
+    position: absolute;
+    width: auto;
+    height: auto;
+    //border-radius: 10px;
+    background-color: #d54343;
+    color: white;
+    top: 10%;
+    left: 20%;
+    padding: 10px;
+    visibility: hidden;
+    //box-shadow: 0px 0px 10px white;
+    z-index: 1100;   
+}
+
+.yamilform
+{
+    position: fixed;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color: white;
+    top: 10%;
+    left: 20%;
+    padding: 20px;
+    visibility: hidden;
+    box-shadow: 0px 0px 10px white;
+    z-index: 1000;
+}
+
+.yamilbackground
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    z-index: 999;
+    left: 0px;
+    top: 0px;
+    opacity: 0.7;
+}
+
+/* Just here with Gener */
+
+.yamilform td
+{
+    padding: 4pt;
+    color: gray;
+}
+
+.yamilform input, .yamilform textarea
+{
+    font-family: arial;
+    color: #444;
+    padding: 4px;
+}
+
+#FormFlight
+{
+    font-family: arial;
+    font-size: 13px;
+}
+
+#FormFlight li
+{
+    list-style: none;
+}
+
+#FormFlight div
+{
+    padding: 4px;
+    margin-top: 10px;
+}
+
+#FormFlight input
+{
+    padding: 4px;
+}
+
+#FormFlight .strength
+{
+    font-weight: bold;
+}

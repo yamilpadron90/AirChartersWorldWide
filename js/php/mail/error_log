@@ -1,0 +1,2 @@
+[03-Jul-2016 14:19:07 America/Chicago] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home2/airchart/public_html/prueba/js/php/mail/mime_mail.php on line 71
+[03-Jul-2016 14:20:17 America/Chicago] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home2/airchart/public_html/prueba/js/php/mail/mime_mail.php on line 71

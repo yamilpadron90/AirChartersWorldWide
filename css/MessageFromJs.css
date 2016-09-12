@@ -1,0 +1,27 @@
+
+.MessageFromJs
+{
+    font-family: Arial;
+    z-index: 10000 !important;
+    position: fixed;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    /*text-shadow: 0px 0px #000;*/
+}
+
+.MessageFromJsNotification
+{
+    box-shadow: 1px 1px 10px #222;
+}
+
+.MessageFromJsError
+{
+    box-shadow: 1px 1px 10px #ce1f44;
+}
+
+.MessageFromJsWarning
+{
+    box-shadow: 1px 1px 10px #dede29;
+}

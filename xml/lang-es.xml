@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<attr>
+    
+    <item name="XMLTitleContent" value="Spanish" />
+    
+    <item name="XMLMenuReserveFlight" value="Charter Quote Request Form" />
+    <item name="XMLMenuContact" value="Contact" />
+    
+    <item name="XMLMenuReserveFlight1" value="Request Form" />
+    <item name="XMLMenuContact1" value="Contact" />    
+    
+    <item name="XMLArt0" value="Get Flight" />
+    <item name="XMLArt0Content" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam." />
+    <item name="XMLArt1" value="Customer" />
+    <item name="XMLArt1Content" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam." />
+    <item name="XMLArt2" value="Tools" />
+    <item name="XMLArt2Content" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam." />
+    
+    <item name="XMLTestimonials" value="Testimonials" />
+    <item name="XMLTestimonialsContent" value="Our services provide the best attention possible" />
+    
+    <item name="XMLTestimonials0" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam." />
+    <item name="XMLTestimonials0Name" value="Yamil Padron" />
+    <item name="XMLTestimonials0Corporation" value="Tecnomatica" />
+
+    <item name="XMLTestimonials1" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam." />
+    <item name="XMLTestimonials1Name" value="Gener" />
+    <item name="XMLTestimonials1Corporation" value="Flight Chapter" />
+    
+    <item name="XMLTestimonials2" value="nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat enim ad minim veniam. " />
+    <item name="XMLTestimonials2Name" value="Sandy" />
+    <item name="XMLTestimonials2Corporation" value="MSA Corporation" />
+    
+    <item name="XMLOffert" value="best Offers" />
+    <item name="XMLOffertContent" value="We have good solutions" />
+    
+    <item name="XMLContact_Name" value="Name" />
+    <item name="XMLContact_Company" value="Company" />
+    <item name="XMLContact_Memo" value="MEMO" />
+    
+    <item name="XMLFlight_Name" value="Charter Quote Request Form" />
+    <item name="XMLFlight_Argument_0" value="Please, choose one of the Charter Options :" />
+    
+    <item name="XMLFlight_Type" value="Type of Charter Flight :*" />
+    <item name="XMLFlight_Type_0" value="Commercial Charter / Public (*) (More than 17 Paxs)" />
+    <item name="XMLFlight_Type_1" value="Group Charter / Private (**) (More than 17 Paxs)" />
+    <item name="XMLFlight_Type_2" value="Private/VIP Charter (1 to 17 Paxs Maximum)" />
+    <item name="XMLFlight_Type_3" value="Aero-Ambulance" />
+    <item name="XMLFlight_Type_4" value="Cargo Charter" />
+    <item name="XMLFlight_Type_5" value="Helicopter Charter" />
+    
+    <item name="XMLFlight_Aircraft" value="Aircraft Seating Configuration :*" />
+    <item name="XMLFlight_Aircraft_0" value="ALL Coach" />
+    <item name="XMLFlight_Aircraft_1" value="1st Class + Coach" />
+    <item name="XMLFlight_Aircraft_2" value="VIP" />
+    
+    <item name="XMLFlight_Passengers" value="Total Number of Passengers :*" />
+    <item name="XMLFlight_Argument_1" value="(*) You DO intend to sell seats to the general public. (**) You DO NOT intend to sell seats to the general public." />
+    <item name="XMLFlight_Argument_2" value="Please Note: For Public Charters, the aircrafts are generally configured to carry from 17 to around 400 passengers. For an specific aircraft configuration, please provide more details about your charter needs." />
+    
+    <item name="XMLFlight_Option" value="Trip Options :*" />
+    <item name="XMLFlight_Option_0" value="Round Trip" />
+    <item name="XMLFlight_Option_1" value="One Way" />
+    <item name="XMLFlight_Option_2" value="Multi-City" />
+    
+    <item name="XMLFlight_Argument_3" value="For 'Multi-City' Trips, please use the 'Remarks Field' to provide the information about the additional Departure and Arrival Cities, as well as the Departure Dates and Times for each LEG not listed before." />
+    
+    <item name="XMLFlight_Service" value="Beverage Service :*" />
+    <item name="XMLFlight_Service_0" value="Standard Service (No Alcoholic Beverages)" />
+    <item name="XMLFlight_Service_1" value="Open Bar" />
+    <item name="XMLFlight_Service_2" value="Cash Bar" />
+    <item name="XMLFlight_Service_3" value="See Remarks" />
+    
+    <item name="XMLFlight_Catering_Service" value="Catering Service :*" />
+    <item name="XMLFlight_Catering_Service_0" value="Standard Service" />
+    <item name="XMLFlight_Catering_Service_1" value="VIP / Premium" />
+    <item name="XMLFlight_Catering_Service_2" value="Athletic Portions (1.5 to 2 X Standard Service)" />
+    <item name="XMLFlight_Catering_Service_3" value="Kosher" />
+    <item name="XMLFlight_Catering_Service_4" value="NO Catering Service" />
+    <item name="XMLFlight_Catering_Service_5" value="See Remarks" />
+    
+    <item name="XMLFlight_Remarks" value="Remarks :" />
+    <item name="XMLFlight_Charter_Name" value="Charter Group Name (Identify the Charter Flight) :" />
+    
+    <item name="XMLFlight_Contact_Name" value="Contact Name(s) :*" />
+    <item name="XMLFlight_Contact_Email" value="Contact E-mail :*" />
+    <item name="XMLFlight_Contact_Company" value="Company :*" />
+    <item name="XMLFlight_Contact_Location" value="Company Location :" />
+    <item name="XMLFlight_Contact_Phone" value="Contact Phone :*" />
+    
+</attr>
