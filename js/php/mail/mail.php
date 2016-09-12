@@ -1,5 +1,6 @@
 <?php
-
+	
+	header("Access-Control-Allow-Origin: *");
     //echo "why " . $_POST["title"]. " " . $_POST["message"];
 
 	mail("yamilpadron@gmail.com", $_POST["title"], "My Test");
