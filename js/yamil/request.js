@@ -34,6 +34,7 @@ request.Start = function(myObject)
 {
     
     var xmlhttp;
+    xmlhttp.withCredentials = true;
     if(window.XMLHttpRequest)
     {
         xmlhttp = new XMLHttpRequest();
