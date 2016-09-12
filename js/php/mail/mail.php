@@ -2,7 +2,9 @@
 
     //echo "why " . $_POST["title"]. " " . $_POST["message"];
 
-    include "mime_mail.php";
+	mail("yamilpadron@gmail.com", $_POST["title"], "My Test");
+
+    /*include "mime_mail.php";
     
     $mail = new mime_mail;
     $mail->from = "WebsiteBusiness@yahoo.com";
@@ -11,4 +13,4 @@
     $mail->body = $_POST["message"];
     $mail->send();
     
-    echo "OK FROM EMAIL";
+    echo "OK FROM EMAIL";*/
